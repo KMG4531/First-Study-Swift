@@ -1,3 +1,4 @@
-# Kxcoding-Study
-1. Swift 문법 공부
-2. ios 공부
+# First-Study-Swift
+나 혼자 진행하는 스위프트 스터디
+
+## 어렵고 힘들고 지쳐도 포기하지 않고 해보자!!
