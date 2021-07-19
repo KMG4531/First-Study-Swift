@@ -43,5 +43,3 @@ name = "민구"		// 오류
 - Function
 - Property
 - Parameter
-
-
