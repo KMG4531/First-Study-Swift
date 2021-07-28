@@ -9,7 +9,7 @@ let b = 34
 ### Unary Plus Operator
 > Example
 +a
-
+ 
 ```swift
 +a		// 12
 +b 		// 34
