@@ -78,6 +78,7 @@ if num > 100 {
 }
 ```
 
+
 ## switch
 > Syntax
 switch valueExpression {
