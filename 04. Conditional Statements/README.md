@@ -187,6 +187,7 @@ guard optionalBinding else {
    statements
 }
 
+
 ```swift
 func divide(base: Int){
     guard base < 100 else {
