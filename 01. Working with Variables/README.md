@@ -9,7 +9,7 @@ var year : Int = 2001
 var valid = true 
 
 // 값 변경
-
+ 
 name = "Mingu" 
 year = "2001"
 ```
