@@ -6,7 +6,7 @@
 ```swift
 var name : String = "강민구"
 var year : Int = 2001
-var valid = true  
+var valid = true   
 
 // 값 변경
  
