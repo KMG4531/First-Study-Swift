@@ -14,7 +14,7 @@ if id == "root" {
     print("valid id")
 }
 
-if password == "1234qwer" {
+if password == "1234qwer" { 
     print("valid password")
 }
 
