@@ -158,4 +158,3 @@ print(str)			// Hello, Stranger
  -> Hello, Stranger
 
 왼쪽 피연산자 값이 저장되어 있다면 출력하고, 왼쪽 값이 저장되어 있지 않다면 오른쪽 값 출력
-
