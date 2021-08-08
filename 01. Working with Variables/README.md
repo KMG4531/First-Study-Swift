@@ -1,3 +1,4 @@
+![](https://images.velog.io/images/jkang4531/post/ca015032-bf88-4f2e-8276-31eccce5ac20/%EC%A0%9C%EB%AA%A9%EC%9D%84%20%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.-001.png)
 ## Variables 변수
 > var variableName = initialValue
 
