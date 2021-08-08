@@ -1,4 +1,4 @@
-## String and Characters  
+## String and Characters   
 ```swift 
 let s = "String"
 
