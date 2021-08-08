@@ -1,5 +1,5 @@
 ## String and Characters
-```swift 
+```swift
 let s = "String"
 
 let c : Character = "C"
