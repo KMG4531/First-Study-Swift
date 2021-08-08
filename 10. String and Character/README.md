@@ -1,4 +1,4 @@
-## String and Characters    
+## String and Characters 
 ```swift 
 let s = "String"
 
@@ -11,7 +11,7 @@ emptyString.count
 
 let emptyString2 = String()
 ```
-
+ 
 ### String Types
 ```swift
 // String => Swift String
