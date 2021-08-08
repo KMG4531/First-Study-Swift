@@ -189,4 +189,3 @@ class ViewController: UIViewController {
 // 함수 선언을 수정할 수 없는 경우에는 wildcard 패턴을 사용
 // _ = saySomething
 ```
-
