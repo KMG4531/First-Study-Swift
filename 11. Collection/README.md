@@ -7,7 +7,7 @@ let nums = [1, 2, 3]
 ```
 
 ### Array Type
-> Array<T>
+> Array<T> 
   [T]
   
 ```swift
