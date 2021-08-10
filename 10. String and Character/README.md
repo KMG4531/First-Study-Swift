@@ -2,7 +2,7 @@
 ```swift
 let s = "String"
 
-let c : Character = "C"
+let c : Character = "C" 
 
 let emptyChar: Character = " "
 
