@@ -11,7 +11,7 @@ var valid = true
 
 // 값 변경
  
-name = "Mingu"  
+name = "Mingu"   
 year = "2001"
 ```
 ## Constants 상수
