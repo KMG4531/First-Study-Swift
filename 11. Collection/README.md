@@ -8,7 +8,7 @@ let nums = [1, 2, 3]
 
 ### Array Type
 > Array<T> 
-  [T]
+  [T] 
   
 ```swift
 let strArray: Array<String>
