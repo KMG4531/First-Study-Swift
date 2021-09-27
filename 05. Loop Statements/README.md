@@ -10,7 +10,7 @@ for loopConstant in Range {
    statements
 }
 ```
-
+ 
 ```swift 
 for _ in 1...5 {
     print("Hello")
